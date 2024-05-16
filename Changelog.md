@@ -2,6 +2,9 @@
 
 All notable changes to the "Tripla QA - Guest Page Filler" extension will be documented in this file.
 
+##
+test
+
 ## [1.0.1] - 2024-05-07
 
 ### Added
